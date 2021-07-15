@@ -19,3 +19,8 @@ You can try out these methods with the `-m` flag like so:
 ```
 shellcode-rs.exe -m tail test.bin
 ```
+
+## Hello World
+
+For additional help in testing, this project also creates `hello-world.exe`. This binary can be run through a shellcode
+generator and the resulting shellcode can be tested with `shellcode-rs`.
